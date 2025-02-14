@@ -1,0 +1,18 @@
+.logo{
+    width: 76px;
+    height: 76px;
+    overflow: hidden;
+    border-radius: 20%;
+    margin-top: 5px;
+    
+    
+}
+
+.logoImg{
+    width: 76px;
+    height: 76px;
+}
+
+.logo:hover{
+    box-shadow: inset 0px 0px 4px 2px #737373;
+}
