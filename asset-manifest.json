@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/manjotsingh/static/css/main.d48db1d2.css",
-    "main.js": "/manjotsingh/static/js/main.e3d0642a.js",
+    "main.css": "/manjotsingh/static/css/main.a91f6772.css",
+    "main.js": "/manjotsingh/static/js/main.523bad74.js",
     "static/js/488.f17c2d70.chunk.js": "/manjotsingh/static/js/488.f17c2d70.chunk.js",
-    "static/media/logo.svg": "/manjotsingh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icons8-linkedin.svg": "/manjotsingh/static/media/icons8-linkedin.f66ae9203def952d017e2a6f2d6060de.svg",
+    "static/media/icons8-github-logo.svg": "/manjotsingh/static/media/icons8-github-logo.7eb26ce3f6cdc0dbb1a58b5ee7a6aa0c.svg",
+    "static/media/icons8-file.svg": "/manjotsingh/static/media/icons8-file.82cf420c115f8423dd6d2b94dbc10586.svg",
     "index.html": "/manjotsingh/index.html",
-    "main.d48db1d2.css.map": "/manjotsingh/static/css/main.d48db1d2.css.map",
-    "main.e3d0642a.js.map": "/manjotsingh/static/js/main.e3d0642a.js.map",
+    "static/media/arrow_down.svg": "/manjotsingh/static/media/arrow_down.ff19ef2e54dcda6e992fa39c8da931be.svg",
+    "main.a91f6772.css.map": "/manjotsingh/static/css/main.a91f6772.css.map",
+    "main.523bad74.js.map": "/manjotsingh/static/js/main.523bad74.js.map",
     "488.f17c2d70.chunk.js.map": "/manjotsingh/static/js/488.f17c2d70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d48db1d2.css",
-    "static/js/main.e3d0642a.js"
+    "static/css/main.a91f6772.css",
+    "static/js/main.523bad74.js"
   ]
 }
