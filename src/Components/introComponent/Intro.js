@@ -5,6 +5,7 @@ import linkedingLogo from "../../assets/logos/icons8-linkedin.svg"
 import githubLogo from "../../assets/logos/icons8-github-logo.svg"
 import resumeLogo from "../../assets/logos/icons8-file.svg"
 import arrowDown from "../../assets/logos/arrow_down.svg"
+import resumeDoc from "../../assets/documents/Manjot_Singh_Resume.pdf"
 
 function Intro(){
     let currentPositionIndex = 0;
@@ -67,8 +68,8 @@ function Intro(){
         </div>
         <div className='logoArea'>
             <Logo logo={linkedingLogo} href="https://www.linkedin.com/in/manjotsingh355/"/>
-            <Logo logo={githubLogo}/>
-            <Logo logo={resumeLogo}/>
+            <Logo logo={githubLogo} href="https://github.com/manjotsingh355"/>
+            <Logo logo={resumeLogo} href={resumeDoc}/>
             <Logo logo={arrowDown}/>
         </div>
       </div>

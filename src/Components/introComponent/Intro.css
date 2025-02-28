@@ -9,7 +9,7 @@
 
 .mydata {
     text-align: center;
-    width: 480px;
+    width: max-content;
     height: max-content;
     font-family: Arial, Helvetica, sans-serif;
     font-size: xxx-large;
@@ -39,6 +39,7 @@
 .logoArea{
     display: flex;
     justify-content: space-evenly;
+    width: 480px;
 }
 
 @keyframes fadein {
