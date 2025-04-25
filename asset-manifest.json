@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/manjotsingh/static/css/main.be333fc8.css",
-    "main.js": "/manjotsingh/static/js/main.c4daf0ae.js",
+    "main.js": "/manjotsingh/static/js/main.52aafd86.js",
     "static/js/488.f17c2d70.chunk.js": "/manjotsingh/static/js/488.f17c2d70.chunk.js",
-    "static/media/Manjot_Singh_Resume.pdf": "/manjotsingh/static/media/Manjot_Singh_Resume.07aff9ab7d6fc436e90d.pdf",
+    "static/media/Manjot_Singh_Resume.pdf": "/manjotsingh/static/media/Manjot_Singh_Resume.2883d623f2a5eaa22f44.pdf",
     "static/media/icons8-linkedin.svg": "/manjotsingh/static/media/icons8-linkedin.f66ae9203def952d017e2a6f2d6060de.svg",
     "static/media/icons8-github-logo.svg": "/manjotsingh/static/media/icons8-github-logo.7eb26ce3f6cdc0dbb1a58b5ee7a6aa0c.svg",
     "index.html": "/manjotsingh/index.html",
     "static/media/icons8-file.svg": "/manjotsingh/static/media/icons8-file.82cf420c115f8423dd6d2b94dbc10586.svg",
     "static/media/arrow_down.svg": "/manjotsingh/static/media/arrow_down.ff19ef2e54dcda6e992fa39c8da931be.svg",
     "main.be333fc8.css.map": "/manjotsingh/static/css/main.be333fc8.css.map",
-    "main.c4daf0ae.js.map": "/manjotsingh/static/js/main.c4daf0ae.js.map",
+    "main.52aafd86.js.map": "/manjotsingh/static/js/main.52aafd86.js.map",
     "488.f17c2d70.chunk.js.map": "/manjotsingh/static/js/488.f17c2d70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be333fc8.css",
-    "static/js/main.c4daf0ae.js"
+    "static/js/main.52aafd86.js"
   ]
 }
